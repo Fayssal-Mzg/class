@@ -1,0 +1,2 @@
+# class
+TP_CLASS_AUTO-LOC
